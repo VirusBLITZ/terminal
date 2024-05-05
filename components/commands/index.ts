@@ -1,0 +1,5 @@
+export { default as header } from "./Header.vue"
+export { default as steam } from "./Steam.vue"
+export { default as surprise } from "./Surprise.vue"
+export { default as help } from "./Help.vue"
+export { default as links } from "./Links.vue"
